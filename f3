@@ -1,2 +1,10 @@
 #! /usr/bin/bash
 # This is a sample file to push 
+a=10
+b=20
+c="INDIA"
+d="Benjimin"
+echo "the value of a is:" $a
+echo "the value of b is:" $b
+echo "the value of c is:" $c
+echo "the value of d is:" $d
